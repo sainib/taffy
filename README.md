@@ -1,8 +1,6 @@
 # taffy
 Text Analytics Framework For Your hadoop 
 
-Thoughts and Ideas on a Text Analytics Framework that can be used for quickly buiding text analytics apps on Hadoop. 
-
 # Overview
 The idea is to have a framework to speed up building the text analytics on Hadoop. The framework would support generalized text analytics models but will be extensible by plugging in sources for data, new models and steps in processing and providing metadata for richer context for text analytics. 
 
