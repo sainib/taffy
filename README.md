@@ -8,7 +8,7 @@ The idea is to have a framework to speed up building the text analytics on Hadoo
 
 ## Data Flow 
 
-(flow.png?raw=true)
+[<img src="https://raw.githubusercontent.com/sainib/taffy/flow.png">]
 
 ## Tools 
 
