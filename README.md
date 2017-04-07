@@ -37,8 +37,9 @@ The idea is to have a framework to speed up building the text analytics on Hadoo
 * Superset
  
 ### Admin Layer 
-* Ambari View to configure the process
+* Ambari View to wire the pipelines and configure the processes. This is where new custom processing can be added.
 
 # Extensibility 
 
-* Hooks to add on processing 
+* Basic template of pipeline will execute certain number of steps in the flow and will allow plugging and playing custom building blocks. 
+
