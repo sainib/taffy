@@ -8,9 +8,7 @@ The idea is to have a framework to speed up building the text analytics on Hadoo
 
 ## Data Flow 
 
-Source                         Staging      Cleansed     Enriched     Coorelation      Analyzed        Consumption 
-of      ----> Ingestion ---->  Layer  ---->  Layer  ---->  Layer  ----> Layer     ----> Layer   ---->   Layer
-Data 
+
 
 
 ## Tools 
