@@ -35,7 +35,7 @@ The idea is to have a framework to speed up building the text analytics on Hadoo
 * HBase 
 * Zeppelin notebooks 
 * Superset
-
+ 
 ### Admin Layer 
 * Ambari View to configure the process
 
