@@ -9,3 +9,4 @@
 * http://www.textanalyticsworld.com/pdf/SF/2015/Day1_1405_Daniel.pdf
 * https://spark.apache.org/docs/latest/mllib-feature-extraction.html
 * https://blog.bitext.com/machine-learning-deep-linguistic-analysis-in-text-analytics
+* https://cwiki.apache.org/confluence/display/Hive/AvroSerDe
