@@ -19,3 +19,12 @@
 * Based on this sample list of use cases, following are some analysis patterns that needs to be built 
  * mapping of product / service to text and classification of mention into good / bad. 
  * 
+ 
+ 
+# Patterns
+
+* Text Mining (i.e. Text clustering, data-driven topics)
+* Categorization (i.e. Tagging unstructured data into categories and sub-categories; hierarchies; taxonomies)
+* Entity Extraction (i.e. Extracting patterns such as phrases, addresses, product codes, phone numbers, etc.)
+* Sentiment Analysis (i.e. Tagging positive, negative, or neutral with varying levels of sentiment)
+* Deep Linguistics (i.e Semantics. Understanding causality, purpose, time, etc.) 
