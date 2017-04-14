@@ -10,3 +10,4 @@
 * https://spark.apache.org/docs/latest/mllib-feature-extraction.html
 * https://blog.bitext.com/machine-learning-deep-linguistic-analysis-in-text-analytics
 * https://cwiki.apache.org/confluence/display/Hive/AvroSerDe
+* http://sentdex.com/sentiment-analysis/
