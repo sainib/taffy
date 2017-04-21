@@ -11,3 +11,4 @@
 * https://blog.bitext.com/machine-learning-deep-linguistic-analysis-in-text-analytics
 * https://cwiki.apache.org/confluence/display/Hive/AvroSerDe
 * http://sentdex.com/sentiment-analysis/
+* http://www.kdnuggets.com/tag/text-analytics
