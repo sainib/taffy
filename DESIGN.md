@@ -1,5 +1,11 @@
-
 # Flow Designer - 
+
+## Processing Options
+* Text Mining 
+* Segmentation 
+* Entity Extraction 
+* Sentiment Analysis
+* Deep Linguistics 
 
 ## Ambari View - 
 
@@ -33,7 +39,7 @@
   * Hive Step 
   * Spark Step (One big scala/python app) 
   * Hive Step 
-  * Shell Step (for Solr and/or Druid) 
+  * Shell Step (for Solr, HBase and/or Druid)
   * Zeppelin Notebook (samples per use case) 
 
 ## Development Steps 
@@ -54,10 +60,9 @@
 * Overall Sentiment over the period of time (daily basis - by default) 
 * Breakdown of Sentiment by categories - during selected period of time. 
 * Change in sentiment over the period of time for all categories over the period of time. 
+* Graphs to show sentiments for two factors on the chart? 
 
-## Flavors 
-* Text Mining 
-* Segmentation 
-* Entity Extraction 
-* Sentiment Analysis
-* Deep Linguistics 
+## TBD 
+* Am i making use of row columnar format for making the storage generic? Or just create the hive tables and provide metadata externally.
+* Joining can be done in Hive or Spark .. Spark if one of the inputs are file 
+* 
