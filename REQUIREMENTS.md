@@ -19,7 +19,11 @@
 * Based on this sample list of use cases, following are some analysis patterns that needs to be built 
  * mapping of product / service to text and classification of mention into good / bad. 
  * 
- 
+
+# Crazy Idea 
+
+App to listen to customer service conv in real-time to figure out the issue and recommend rep on what to say / how to resolve the issue, based on learnings from previous issues... The app will take sentences from each speaker and separate customer speed based on already-learnt rep's voice and convert the customer speech to text using API, identify the customer issue, apply real-time model to find POS that helped the other customers and display that on the customer service screen.. 
+
  
 # Patterns
 
